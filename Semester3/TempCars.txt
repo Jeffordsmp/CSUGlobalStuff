@@ -1,0 +1,12 @@
+nissan/versa/grey
+Nissan
+Versa
+Grey
+2012
+50000
+honda/crf/black
+Honda
+CRF
+Black
+2002
+70000
