@@ -38,7 +38,7 @@ This semseter was about WebGL and other computer graphics.
 
 ## Semester 9
 
-This semester was all about a capstone project. This porject has its own repo on my git hub.
+This semester was all about a capstone project. This porject has its own repo on my github.
 
 
 [**Here is the link to my capstone project**](https://github.com/Jeffordsmp/CSUCapstone)
