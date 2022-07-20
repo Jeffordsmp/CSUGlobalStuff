@@ -8,7 +8,7 @@ All of these semesters were a part of online classes that I have been doing for 
 Some of the semesters are missing because I either forgot to save the code, or it was semester of papers.
 
 ## Semester 1
-This one is light becasue it was a lot of pseudo-code. Also it is just some basic javaScript.
+This one is light becasue it was a lot of pseudo-code. Also it is just some basic JavaScript.
 
 ## Semester 3
 This is where I start getting into some Java
